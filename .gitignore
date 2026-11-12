@@ -1,0 +1,6 @@
+runtime/
+*.pfx
+*.key
+*password*
+*.log
+.env

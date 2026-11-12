@@ -1,0 +1,4 @@
+HLS.js 1.6.13, BSD-2-Clause. Source: https://github.com/video-dev/hls.js/tree/v1.6.13
+NPM archive: https://registry.npmjs.org/hls.js/-/hls.js-1.6.13.tgz
+Archive SHA256: 5678b229d049caaa1e2246270d7b5223e387232b43eb4d70df0e8be5eff1c17a
+Player SHA256: 7c47cd97d7a6e7b98d9623dd8ed9a6d45af4be4085e0c2001cd7175c2b4cfb07
