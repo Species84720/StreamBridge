@@ -1,4 +1,4 @@
-name: Deploy static installer and receiver
+﻿name: Deploy TV receiver
 on:
   workflow_dispatch:
   push:
@@ -28,3 +28,4 @@ jobs:
         uses: actions/deploy-pages@v4
         with:
           artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+
